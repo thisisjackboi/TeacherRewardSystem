@@ -11,6 +11,8 @@ The **Teacher Performance Rewards System** is a decentralized application (DApp)
 The smart contract for the Teacher Performance Rewards System is deployed at the following Ethereum address:
 
 **`0x3664c7976AaD7Ad7ab1877d2FB49D61c3c2f4e24`**
+![image](https://github.com/user-attachments/assets/1a85511a-0a99-4b0e-8f69-ec5abee6caef)
+
 
 This address can be used to interact with the smart contract on the Ethereum network.
 
