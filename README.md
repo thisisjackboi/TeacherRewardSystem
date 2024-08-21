@@ -1,5 +1,4 @@
-![Uploading Screenshot_2024-08-21_120028-removebg-preview.png…]()
-
+![Screenshot_2024-08-21_120028-removebg-preview](https://github.com/user-attachments/assets/bc540724-326c-44a7-a75a-56f1a3cf9706)
 
 # 🎓 Teacher Performance Rewards System
 
