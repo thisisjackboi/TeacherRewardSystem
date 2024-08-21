@@ -16,6 +16,11 @@ The smart contract for the Teacher Performance Rewards System is deployed at the
 
 This address can be used to interact with the smart contract on the Ethereum network.
 
+## 🌟 flow chart
+
+![TeacherPerformanceRewards Contract Flow](https://github.com/user-attachments/assets/96f51bec-569d-4f14-a595-13130ef1a310)
+
+
 ## 🌟 Key Features
 
 - **🛡️ Decentralized Reward Distribution**: Automatically calculate and distribute Ether rewards to teachers based on their performance scores.
