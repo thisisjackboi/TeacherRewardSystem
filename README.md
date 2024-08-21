@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8ab4c00f-36e1-42ac-ba49-910743972a3e)
+
 # 🎓 Teacher Performance Rewards System
 
 ## 📚 Project Description
